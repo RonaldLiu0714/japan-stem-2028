@@ -1,0 +1,72 @@
+[
+  {
+    "date": "2027-02-15",
+    "type": "網路出願",
+    "note": "第1回 EJU 開始報名",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2027.html",
+    "school": "JASSO・EJU"
+  },
+  {
+    "date": "2027-03-11",
+    "type": "網路出願",
+    "note": "第1回 EJU 日本國內報名 17:00 截止；海外依當地窗口",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2027.html",
+    "school": "JASSO・EJU"
+  },
+  {
+    "date": "2027-06-20",
+    "type": "考試",
+    "note": "第1回 EJU。各校採認場次另核",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2027.html",
+    "school": "JASSO・EJU"
+  },
+  {
+    "date": "2027-07-27",
+    "type": "成績公布",
+    "note": "第1回 EJU 預定公布成績",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2027.html",
+    "school": "JASSO・EJU"
+  },
+  {
+    "date": "2027-07-12",
+    "type": "網路出願",
+    "note": "第2回 EJU 開始報名",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2027.html",
+    "school": "JASSO・EJU"
+  },
+  {
+    "date": "2027-08-05",
+    "type": "網路出願",
+    "note": "第2回 EJU 日本國內報名 17:00 截止；海外依當地窗口",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2027.html",
+    "school": "JASSO・EJU"
+  },
+  {
+    "date": "2027-11-14",
+    "type": "考試",
+    "note": "第2回 EJU。各校採認場次另核",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2027.html",
+    "school": "JASSO・EJU"
+  },
+  {
+    "date": "2027-12-21",
+    "type": "成績公布",
+    "note": "第2回 EJU 預定公布成績",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/about/eju_guide/2027.html",
+    "school": "JASSO・EJU"
+  },
+  {
+    "date": "2028-01-15",
+    "type": "考試",
+    "note": "令和10年度 大学入学共通テスト 本試験；一般選拔須另核指定科目",
+    "url": "https://www.dnc.ac.jp/kyotsu/shiken_jouhou/r10/",
+    "school": "大学入試センター"
+  },
+  {
+    "date": "2028-01-16",
+    "type": "考試",
+    "note": "令和10年度 大学入学共通テスト 本試験；一般選拔須另核指定科目",
+    "url": "https://www.dnc.ac.jp/kyotsu/shiken_jouhou/r10/",
+    "school": "大学入試センター"
+  }
+]
