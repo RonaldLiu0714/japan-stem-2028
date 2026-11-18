@@ -22,7 +22,7 @@ calendar = read("calendar.json")
 for route in routes:
     route["id"] = key(route["school"], route["unit"], route["route"], route["year"])
 for item in syllabus:
-    item["id"] = key(item["subject"], item["ja"], item["page"])
+    item.setdefault("id", key(item["subject"], item["ja"], item["page"]))
 snapshot = DATA / "admissions.sqlite.tmp"
 snapshot.unlink(missing_ok=True)
 with sqlite3.connect(snapshot) as db:
@@ -34,7 +34,7 @@ with sqlite3.connect(snapshot) as db:
         CREATE TABLE sources(route_id TEXT REFERENCES routes, title TEXT, url TEXT, section TEXT, checked TEXT);
         CREATE TABLE events(route_id TEXT REFERENCES routes, date TEXT, type TEXT, note TEXT);
         CREATE TABLE syllabus(id TEXT PRIMARY KEY, subject TEXT, ja TEXT, zh TEXT, page TEXT, version TEXT,
-          change TEXT, url TEXT, sample TEXT, note TEXT);
+          change TEXT, url TEXT, sample TEXT, note TEXT, revisionSource TEXT, checked TEXT);
         CREATE TABLE shared_calendar(date TEXT, type TEXT, note TEXT, url TEXT, school TEXT);
     """)
     def insert(table, row):
