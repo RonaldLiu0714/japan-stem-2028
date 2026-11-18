@@ -3332,5 +3332,173 @@
       }
     ],
     "events": []
+  },
+  {
+    "year": 2028,
+    "status": "2028 官方預告",
+    "school": "東京農工大學",
+    "unit": "工学部 化学物理工学科",
+    "field": "材料、應用物理",
+    "route": "私費外国人留学生入試",
+    "eligibility": "2028 完整資格待募集要項。",
+    "eju": "此預告只確認募集人員，2028 科目、場次與門檻待確認。",
+    "english": "2028 英語版本和送分期限待確認。",
+    "selection": "2028 募集人員表已列此學科之「私費外国人」名額。",
+    "deadline": "2028 出願日期待確認。",
+    "quota": "若干名（私費外国人欄）",
+    "match": "官方條件待確認",
+    "sources": [
+      {
+        "title": "令和10（2028）年度入学者選抜 工学部募集人員の一部変更について",
+        "url": "https://www.tuat.ac.jp/documents/tuat/admission/nyushi_gakubu/info/202603_2028_t_henkouyokoku.pdf",
+        "section": "2026-03-10，PDF 第 1 頁「変更後」",
+        "checked": "2026-11-18"
+      }
+    ],
+    "events": []
+  },
+  {
+    "year": 2028,
+    "status": "2028 官方預告",
+    "school": "東京農工大學",
+    "unit": "工学部 機械システム工学科",
+    "field": "機械、控制",
+    "route": "私費外国人留学生入試",
+    "eligibility": "2028 完整資格待募集要項。",
+    "eju": "此預告只確認募集人員，2028 科目、場次與門檻待確認。",
+    "english": "2028 英語版本和送分期限待確認。",
+    "selection": "2028 募集人員表已列此學科之「私費外国人」名額。",
+    "deadline": "2028 出願日期待確認。",
+    "quota": "若干名（私費外国人欄）",
+    "match": "官方條件待確認",
+    "sources": [
+      {
+        "title": "令和10（2028）年度入学者選抜 工学部募集人員の一部変更について",
+        "url": "https://www.tuat.ac.jp/documents/tuat/admission/nyushi_gakubu/info/202603_2028_t_henkouyokoku.pdf",
+        "section": "2026-03-10，PDF 第 1 頁「変更後」",
+        "checked": "2026-11-18"
+      }
+    ],
+    "events": []
+  },
+  {
+    "year": 2028,
+    "status": "2028 官方預告",
+    "school": "東京農工大學",
+    "unit": "工学部 知能情報システム工学科",
+    "field": "情報、電腦工程",
+    "route": "私費外国人留学生入試",
+    "eligibility": "2028 完整資格待募集要項。",
+    "eju": "此預告只確認募集人員，2028 科目、場次與門檻待確認。",
+    "english": "2028 英語版本和送分期限待確認。",
+    "selection": "2028 募集人員表已列此學科之「私費外国人」名額。",
+    "deadline": "2028 出願日期待確認。",
+    "quota": "若干名（私費外国人欄）",
+    "match": "官方條件待確認",
+    "sources": [
+      {
+        "title": "令和10（2028）年度入学者選抜 工学部募集人員の一部変更について",
+        "url": "https://www.tuat.ac.jp/documents/tuat/admission/nyushi_gakubu/info/202603_2028_t_henkouyokoku.pdf",
+        "section": "2026-03-10，PDF 第 1 頁「変更後」",
+        "checked": "2026-11-18"
+      }
+    ],
+    "events": []
+  },
+  {
+    "school": "九州大學",
+    "year": 2028,
+    "unit": "工学部 電気情報工学科",
+    "route": "私費外国人留学生入試（4月入学）",
+    "field": "電氣電子、情報",
+    "status": "2028 官方預告",
+    "eligibility": "令和9年度以降停止本學科的此項招生。",
+    "eju": "停招",
+    "english": "停招",
+    "selection": "直接申請本學科的私費 4 月途徑停止；融合基礎工学科另列。",
+    "quota": "0（募集停止）",
+    "deadline": "停招",
+    "match": "停招",
+    "sources": [
+      {
+        "title": "令和9年度（2027年度）以降の工学部における入学者選抜方法の変更について",
+        "url": "https://www.eng.kyushu-u.ac.jp/_cms_dir/uploads/2026/07/R9kougaku_yokoku.pdf",
+        "section": "第 3 節「私費外国人留学生入試（4月入学）」",
+        "checked": "2026-11-18"
+      }
+    ],
+    "events": []
+  },
+  {
+    "school": "九州大學",
+    "year": 2028,
+    "unit": "工学部 材料工学科",
+    "route": "私費外国人留学生入試（4月入学）",
+    "field": "材料",
+    "status": "2028 官方預告",
+    "eligibility": "令和9年度以降停止本學科的此項招生。",
+    "eju": "停招",
+    "english": "停招",
+    "selection": "直接申請本學科的私費 4 月途徑停止；融合基礎工学科另列。",
+    "quota": "0（募集停止）",
+    "deadline": "停招",
+    "match": "停招",
+    "sources": [
+      {
+        "title": "令和9年度（2027年度）以降の工学部における入学者選抜方法の変更について",
+        "url": "https://www.eng.kyushu-u.ac.jp/_cms_dir/uploads/2026/07/R9kougaku_yokoku.pdf",
+        "section": "第 3 節「私費外国人留学生入試（4月入学）」",
+        "checked": "2026-11-18"
+      }
+    ],
+    "events": []
+  },
+  {
+    "school": "九州大學",
+    "year": 2028,
+    "unit": "工学部 機械工学科",
+    "route": "私費外国人留学生入試（4月入学）",
+    "field": "機械",
+    "status": "2028 官方預告",
+    "eligibility": "令和9年度以降停止本學科的此項招生。",
+    "eju": "停招",
+    "english": "停招",
+    "selection": "直接申請本學科的私費 4 月途徑停止；融合基礎工学科另列。",
+    "quota": "0（募集停止）",
+    "deadline": "停招",
+    "match": "停招",
+    "sources": [
+      {
+        "title": "令和9年度（2027年度）以降の工学部における入学者選抜方法の変更について",
+        "url": "https://www.eng.kyushu-u.ac.jp/_cms_dir/uploads/2026/07/R9kougaku_yokoku.pdf",
+        "section": "第 3 節「私費外国人留学生入試（4月入学）」",
+        "checked": "2026-11-18"
+      }
+    ],
+    "events": []
+  },
+  {
+    "school": "九州大學",
+    "year": 2028,
+    "unit": "工学部 量子物理工学科",
+    "route": "私費外国人留学生入試（4月入学）",
+    "field": "應用物理",
+    "status": "2028 官方預告",
+    "eligibility": "令和9年度以降停止本學科的此項招生。",
+    "eju": "停招",
+    "english": "停招",
+    "selection": "直接申請本學科的私費 4 月途徑停止；融合基礎工学科另列。",
+    "quota": "0（募集停止）",
+    "deadline": "停招",
+    "match": "停招",
+    "sources": [
+      {
+        "title": "令和9年度（2027年度）以降の工学部における入学者選抜方法の変更について",
+        "url": "https://www.eng.kyushu-u.ac.jp/_cms_dir/uploads/2026/07/R9kougaku_yokoku.pdf",
+        "section": "第 3 節「私費外国人留学生入試（4月入学）」",
+        "checked": "2026-11-18"
+      }
+    ],
+    "events": []
   }
 ]
